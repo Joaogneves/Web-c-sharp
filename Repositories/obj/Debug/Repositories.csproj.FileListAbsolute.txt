@@ -1,0 +1,9 @@
+D:\web\web\Repositories\bin\Debug\Repositories.dll
+D:\web\web\Repositories\bin\Debug\Repositories.pdb
+D:\web\web\Repositories\bin\Debug\Model.dll
+D:\web\web\Repositories\bin\Debug\Model.pdb
+D:\web\web\Repositories\obj\Debug\Repositories.csproj.AssemblyReference.cache
+D:\web\web\Repositories\obj\Debug\Repositories.csproj.CoreCompileInputs.cache
+D:\web\web\Repositories\obj\Debug\Repositories.csproj.CopyComplete
+D:\web\web\Repositories\obj\Debug\Repositories.dll
+D:\web\web\Repositories\obj\Debug\Repositories.pdb
