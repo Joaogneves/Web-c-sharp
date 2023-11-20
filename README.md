@@ -23,7 +23,7 @@ Projeto CRUD de médicos e clientes desenvolvido em C# e .Net framework
 1. Clone o repositório:
 
 ```bash
-git clone 
+git clone git@github.com:Joaogneves/Web-c-sharp.git
  ```
 
 2. Edite o arquivo 'Web.config'
