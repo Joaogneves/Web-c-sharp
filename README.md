@@ -52,7 +52,7 @@ go
 CREATE TABLE cliente(
 	id int identity(1,1) not null,
 	nome varchar(200) not null,
-	dataNascimento date
+	dataNascimento date,
 	constraint pk_cliente primary key (id)
 )
 
